@@ -1,3 +1,8 @@
+# Imports
+import numpy as np
+import matplotlib.pyplot as plt
+import random
+
 """
 Error functions :
 """
