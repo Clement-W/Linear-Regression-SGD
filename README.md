@@ -1,4 +1,10 @@
-# Linear regression with Gradient Descent 
+<br />
+
+<h1 align="left">Linear regression with Gradient Descent</h1>
+
+<p align="center">
+    <img src="example.png" alt="example image" >
+</p>
 
 
 <!-- ABOUT THE PROJECT -->
