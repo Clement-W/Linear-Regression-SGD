@@ -2,7 +2,7 @@
 
 Implementation from scratch of the gradient descent algorithm for linear regression. 
 I've implemented :
-* classic GD
+* Classic GD
 * SGD
 * Mini batch SGD
 
