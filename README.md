@@ -47,7 +47,7 @@ Disclaimer : Using gradient descent to find the coefficients of a line's equatio
 
 ### Demo
 
-To see a demo, check the notebook file "LinearRegression_GD.ipynb". You'll find multiples examples of linear regression with classic gradient descent, stochastic gradient descent and mini batch stochastic gradient descent.
+To see a demo, check the notebook file "LinearRegression_GD.ipynb". You'll find multiple examples of linear regression with classic gradient descent, stochastic gradient descent and mini batch stochastic gradient descent.
 
 ## Contributing
 
