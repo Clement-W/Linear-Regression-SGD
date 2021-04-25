@@ -17,7 +17,7 @@ I've implemented :
 * SGD
 * Mini-batch SGD
 
-Disclaimer : Using gradient descent to find the coefficients of a line's equation is not the best way to do as the coefficient can be directly calculated with variance and covariance. Implementing it from scratch is just a way for me to better understand the gradient descent algorithm.
+Disclaimer : Using gradient descent to find the coefficients of a line's equation is not the best way to do as the coefficient can be calculated analytically using linear algebra. Implementing it from scratch is just a way for me to better understand the gradient descent algorithm.
 
 ### Prerequisites
 
